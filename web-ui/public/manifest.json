@@ -1,0 +1,18 @@
+{
+    "name": "Fath-AI",
+    "short_name": "Fath-AI",
+    "description": "Local LLM Assistant",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#24273a",
+    "theme_color": "#91d7e3",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
